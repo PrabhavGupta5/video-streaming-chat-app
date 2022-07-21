@@ -9,7 +9,7 @@
 With this web application, you can video chat with any person in this world, having features like camera on and off and seperate chat section for better user experience.
 I really enjoyed working on this project and spent any time I could on it.
 * It's a fully responsive web application.
-* Used mainly NodeJS in building this web application with the help of API.
+* Used mainly NodeJS, EJS in building this web application.
 * Used CSS to design the website at various places like buttons, text and image alignments, giving different colours to the website etc.
 
 	
